@@ -1,0 +1,10 @@
+---
+bookToc: false
+---
+
+## Projects
+
+
+### Bachelor and Master projects
+
+For more info see [this link](https://gravity.univie.ac.at/studies/master-and-phd-projects/)
