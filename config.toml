@@ -1,0 +1,32 @@
+baseURL = 'https://homepage.univie.ac.at/maciej.maliborski'
+#baseURL = "./"
+relativeURLs = "false"
+
+languageCode = 'en-us'
+title = 'MM Homepage'
+theme = 'hugo-book'
+
+# Book configuration
+disablePathToLower = true
+enableGitInfo = true
+
+
+[menu]
+# [[menu.before]]
+[[menu.after]]
+  name = "Bitbucket"
+  url = "https://bitbucket.org/mmlb/"
+  weight = 10
+
+[[menu.after]]
+  name = "Github"
+  url = "https://github.com/mmal"
+  weight = 20
+
+
+[params]
+  # (Optional, default light) Sets color theme: light, dark or auto.
+  # Theme 'auto' switches between dark and light modes based on browser/os preferences
+  BookTheme = 'light'
+
+  # BookMenuBundle = '/menu'
