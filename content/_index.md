@@ -17,13 +17,6 @@ Under [this link](https://ucloud.univie.ac.at/index.php/s/jwofEMsEqg4MRxC/downlo
 
 ## Contact
 
-<!-- Faculty of Mathematics, University of Vienna, Oskar-Morgenstern-Platz 1, 1090 Vienna -->
-
-<!-- Gravitational Physics, Faculty of Physics, University of Vienna, Währinger Straße 17, 1090 Vienna -->
-
-<!-- T: +43-1-4277-51560 -->
-<!-- F: +43-1-4277-9515 -->
-
 Institute of Analysis and Scientific Computing, TU Wien, Wiedner Hauptstraße 8–10, 1040 Vienna
 
 Email: [Maciej dot Maliborski at tuwien dot ac dot at](mailto:Maciej[dot]Maliborski[at]tuwien[dot]ac[dot]at)
@@ -50,17 +43,9 @@ evolution equations (like the Einstein equation).
 
 ## Publications
 
-My PhD thesis is posted on arXiv: M. Maliborski, _"Dynamics of
-Nonlinear Waves on Bounded Domains"_, Jagiellonian University,
-November 2014
-[`[arXiv:1603.00935]`](http://arxiv.org/abs/arXiv:1603.00935) (direct
-download
-[link](https://pure.mpg.de/rest/items/item_2307772_3/component/file_2307771/content)).
+My PhD thesis is posted on arXiv: M. Maliborski, _"Dynamics of Nonlinear Waves on Bounded Domains"_, Jagiellonian University, November 2014 [`[arXiv:1603.00935]`](http://arxiv.org/abs/arXiv:1603.00935) (direct download [link](https://pure.mpg.de/rest/items/item_2307772_3/component/file_2307771/content)).
 
-For all of my recent papers see
-[inSPIRE](https://inspirehep.net/authors/1274563?ui-citation-summary=true) (physics)
-or
-[arXiv](https://arxiv.org/a/0000-0002-8621-9761.html) (physics+math).
+For all of my recent papers see [inSPIRE](https://inspirehep.net/authors/1274563?ui-citation-summary=true) (physics) or [arXiv](https://arxiv.org/a/0000-0002-8621-9761.html) (physics+math).
 
 
 ### Preprints

@@ -1,5 +1,4 @@
-baseURL = 'https://homepage.univie.ac.at/maciej.maliborski'
-#baseURL = "./"
+baseURL = 'https://mmal.github.io'
 relativeURLs = "false"
 
 languageCode = 'en-us'
