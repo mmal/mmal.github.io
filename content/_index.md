@@ -50,6 +50,10 @@ For all of my recent papers see [inSPIRE](https://inspirehep.net/authors/1274563
 
 ### Preprints
 
+- F. Ficek, M. Maliborski, _"New time-periodic solutions to the cubic conformal wave equation on {{<katex>}}\mathbb{S}^{3}{{</katex>}}: I Spherical symmetry"_, [`[arXiv:2610.32600]`](https://arxiv.org/abs/2610.32600)
+
+- P.T. Chruściel, J. Song, R. Wutte, M. Maliborski, K. Kroencke, _"Static vacuum metrics in {{<katex>}}(4+1){{</katex>}} dimensions with {{<katex>}}\Lambda < 0{{</katex>}} and squashed conformal infinity"_, [`[arXiv:2607.22237]`](https://arxiv.org/abs/2607.22237)
+
 - D. Fajman, M. Maliborski, M. Ofner, T. Oliynyk, Z. Wyatt, _"A critical threshold for the cosmological Euler-Poisson system"_, [`[arXiv:2512.19454]`](https://arxiv.org/abs/2512.19454)
 
 - F. Ficek, M. Maliborski, _"New class of time-periodic solutions to the 1D cubic wave equation"_, [`[arXiv:2506.10839]`](https://arxiv.org/abs/2506.10839)
